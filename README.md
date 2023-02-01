@@ -12,4 +12,4 @@ In this repo are all the website wireframes and designs I have made in my spare 
 
 #### Below is for a bank
 
-![Untitled design (17)](https://user-images.githubusercontent.com/119549394/215954192-204826f8-7bb9-4397-9714-9dda2ab4a11e.png)
+![Untitled design (18)](https://user-images.githubusercontent.com/119549394/215963486-11ebeaf8-c656-48ef-b9cb-068a38c3ab23.png)
