@@ -13,3 +13,7 @@ In this repo are all the website wireframes and designs I have made in my spare 
 #### Below is for a bank
 
 ![Untitled design (18)](https://user-images.githubusercontent.com/119549394/215963486-11ebeaf8-c656-48ef-b9cb-068a38c3ab23.png)
+
+#### Below is for a social media/photo sharing website 
+
+![wave overview](https://user-images.githubusercontent.com/119549394/216220624-8c1e188f-6f06-4f11-9b66-756ac0a3d980.png)
