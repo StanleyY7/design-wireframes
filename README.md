@@ -20,3 +20,11 @@ In this repo are all the website wireframes and designs I have made in my spare 
 #### Below is for a social media/photo sharing website 
 
 ![wave overview](https://user-images.githubusercontent.com/119549394/216220624-8c1e188f-6f06-4f11-9b66-756ac0a3d980.png)
+
+## Other
+
+#### Interactive Final Prototype for SunCorp PACE capstone unit (made using InVision)
+
+https://projects.invisionapp.com/share/N4OORNAEJP5#/screens
+
+![image](https://user-images.githubusercontent.com/119549394/228837293-535724a8-b6e0-4433-a418-17f6858b5be8.png)
