@@ -9,7 +9,7 @@ In this repo are all the website wireframes and designs I have made in my spare 
 
 #### Below from left to right are for a: Photography Portfolio, Restaurant and Lawn Mowing Business
 
-![Untitled design (21)](https://user-images.githubusercontent.com/119549394/221330989-ff431f09-b4f3-4a8d-9f02-3280e334d021.png)
+![Untitled design (30)](https://user-images.githubusercontent.com/119549394/229026670-bc6b0117-7955-4f46-85cf-86ade09ece5c.png)
 
 ## Mobile Wireframes/Designs
 
