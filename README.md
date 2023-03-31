@@ -28,3 +28,8 @@ In this repo are all the website wireframes and designs I have made in my spare 
 https://projects.invisionapp.com/share/N4OORNAEJP5#/screens
 
 ![image](https://user-images.githubusercontent.com/119549394/228837293-535724a8-b6e0-4433-a418-17f6858b5be8.png)
+
+#### Logos and Other Designs for a potential group full-stack project based on a game
+
+![Copy of Untitled (1000 × 1000 px) (4)](https://user-images.githubusercontent.com/119549394/229014227-8da6e301-9f28-4a28-a68b-32d00cc5df20.png)
+![LOL X DOTA](https://user-images.githubusercontent.com/119549394/229014234-423e4c2f-2014-4695-ba7f-e02ae63cbc94.png)
