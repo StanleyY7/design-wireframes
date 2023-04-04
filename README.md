@@ -21,6 +21,12 @@ In this repo are all the website wireframes and designs I have made in my spare 
 
 ![wave overview](https://user-images.githubusercontent.com/119549394/216220624-8c1e188f-6f06-4f11-9b66-756ac0a3d980.png)
 
+## Figma Designs
+
+#### For a music/entertainment type website
+
+![image](https://user-images.githubusercontent.com/119549394/229659568-0347c9b6-1b0a-4d42-aba5-c9d2e56551b9.png)
+
 ## Other
 
 #### Interactive Final Prototype for SunCorp PACE capstone unit (made using InVision)
