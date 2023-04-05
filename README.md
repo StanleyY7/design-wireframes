@@ -3,6 +3,11 @@ In this repo are all the website wireframes and designs I have made in my spare 
 
 ## Website Wireframes/Designs
 
+#### .Scribe Project (Github: https://github.com/StanleyY7/googlebooks)
+
+![frontCover](https://user-images.githubusercontent.com/119549394/213914153-d6b5daa6-0b97-4cc4-884b-1dc7c8b45e71.png)
+![WireframeDesign for  Scribe (2)](https://user-images.githubusercontent.com/119549394/213914193-024509d3-3a50-4dbf-b44f-106db9e06099.png)
+
 #### Below from left to right are for a: Clothing Store, Candle Store and Real Estate Agency
 
 ![Untitled design (13)](https://user-images.githubusercontent.com/119549394/215952607-a9145e42-4d41-45b5-8bf2-493e8f66b73e.png)
