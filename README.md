@@ -34,7 +34,7 @@ In this repo are all the website wireframes and designs I have made in my spare 
 
 #### For Resourcing API frontend (Github: https://github.com/StanleyY7/resourcingAPI)
 
-![image](https://user-images.githubusercontent.com/119549394/230902327-978fcc1d-a124-4163-9b7b-dcc9eda88933.png)
+![image](https://user-images.githubusercontent.com/119549394/230904032-14ef0f2f-f924-43bd-be67-9a87335eddbd.png)
 
 ## Other
 
