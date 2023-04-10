@@ -32,6 +32,10 @@ In this repo are all the website wireframes and designs I have made in my spare 
 
 ![image](https://user-images.githubusercontent.com/119549394/229659568-0347c9b6-1b0a-4d42-aba5-c9d2e56551b9.png)
 
+#### For Resourcing API frontend (Github: https://github.com/StanleyY7/resourcingAPI)
+
+![image](https://user-images.githubusercontent.com/119549394/230902327-978fcc1d-a124-4163-9b7b-dcc9eda88933.png)
+
 ## Other
 
 #### Interactive Final Prototype for SunCorp PACE capstone unit (made using InVision)
