@@ -40,6 +40,10 @@ In this repo are all the website wireframes and designs I have made in my spare 
 
 ![image](https://user-images.githubusercontent.com/119549394/236450840-5f81b605-e3a7-4cd7-b57f-f55bc7c913c1.png)
 
+#### Frontend for my Psalms API
+
+<img src="https://github.com/StanleyY7/design-wireframes/assets/119549394/6be7ed66-1260-448b-92fa-9b280c484fc8" width="350px"/>
+
 ## Other
 
 #### Interactive Final Prototype for SunCorp PACE capstone unit (made using InVision)
