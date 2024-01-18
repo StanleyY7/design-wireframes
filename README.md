@@ -44,6 +44,12 @@ In this repo are all the website wireframes and designs I have made in my spare 
 
 <img src="https://github.com/StanleyY7/design-wireframes/assets/119549394/6be7ed66-1260-448b-92fa-9b280c484fc8" width="350px"/>
 
+#### Legion 2.0, an improved design for my existing ecommerce project
+
+![legion 2 0](https://github.com/StanleyY7/design-wireframes/assets/119549394/effc777a-2402-4004-8308-844dde93a5bf)
+
+![Legion 2 0](https://github.com/StanleyY7/design-wireframes/assets/119549394/dcc8378d-f0d1-4eef-99f4-308cb72a4b13)
+
 ## Other
 
 #### Interactive Final Prototype for SunCorp PACE capstone unit (made using InVision)
